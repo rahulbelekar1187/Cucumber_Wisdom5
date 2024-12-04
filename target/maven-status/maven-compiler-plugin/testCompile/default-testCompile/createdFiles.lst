@@ -1,0 +1,4 @@
+TestRunner_Wisdom\TestRun.class
+TestRunner_Wisdom\TestRunnerNew.class
+PageObjects\Login_Wisdom.class
+StepDefinitions\Steps.class
